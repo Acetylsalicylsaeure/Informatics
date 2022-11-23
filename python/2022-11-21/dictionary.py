@@ -14,4 +14,7 @@ print(person["name"])
 print(person)
 
 # prints the indices
-for key in person: print(key)
+for key in person:
+    print(key)
+# or
+print(person.keys())
