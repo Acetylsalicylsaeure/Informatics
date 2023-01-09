@@ -1,0 +1,7 @@
+ID,Name,Date of birth
+001,Paul Smith, 07.01.1989
+002,Ewa Matl,03.09.1999
+003,Sandra Hofer,06.10.2000
+004,David Smith,01.09.1989
+005,Emilia Zseby,03.09.1999
+006,Tanja Zseby,06.10.2000 
